@@ -26,7 +26,7 @@ const App = () => {
         <>
             <div>
                 <div className="center_div">
-                <h2 className="todo_style">ToDo List</h2><br/>
+                <h2 className="todo_style">ToDo List Welcome</h2><br/>
                 <input type="text" 
                 placeholder="Add a Item" 
                 onChange={inputEvent}
